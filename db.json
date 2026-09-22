@@ -1,4 +1,3 @@
-
 {
   "usuarios": [
     { "id": 1, "email": "usuario1@email.com", "senha": "1", "senhaRepeticao": "1", "status": true },
@@ -23,7 +22,6 @@
     { "id": 1, "nome": "Doador 1", "cpf": "111111111", "dtNasc": "01/01/2000", "sexo": "feminino", "celular": "1111-1111", "tipoS": "A+" , "idUsuario": 4 },
     { "id": 2, "nome": "Doador 2", "cpf": "111111111", "dtNasc": "01/01/2000", "sexo": "masculino", "celular": "2222-2222", "tipoS": "A+" , "idUsuario": 5 },
     { "id": 3, "nome": "Doador 3", "cpf": "111111111", "dtNasc": "01/01/2000", "sexo": "masculino", "celular": "3333-3333", "tipoS": "A+" , "idUsuario": 6 }
-
   ],
   "hemocentros": [
     { "id": 1, "idUsuario": 7 },
