@@ -12,5 +12,10 @@
     { "id": 10, "email": "usuario10@email.com", "senha": "1", "senhaRepeticao": "1", "status": true },
     { "id": 11, "email": "usuario11@email.com", "senha": "1", "senhaRepeticao": "1", "status": false },
     { "id": 12, "email": "usuario12@email.com", "senha": "1", "senhaRepeticao": "1", "status": true }
+  ],
+  "adms": [
+    { "id": 1, "idUsuario": 1 },
+    { "id": 2, "idUsuario": 2 },
+    { "id": 3, "idUsuario": 3 }
   ]
 }
