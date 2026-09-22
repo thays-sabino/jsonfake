@@ -1,18 +1,4 @@
 {
-  "usuarios": [
-    { "id": 1, "email": "usuario1@email.com", "senha": "1", "senhaRepeticao": "1", "status": true },
-    { "id": 2, "email": "usuario2@email.com", "senha": "1", "senhaRepeticao": "1", "status": true },
-    { "id": 3, "email": "usuario3@email.com", "senha": "1", "senhaRepeticao": "1", "status": true },
-    { "id": 4, "email": "usuario4@email.com", "senha": "1", "senhaRepeticao": "1", "status": false },
-    { "id": 5, "email": "usuario5@email.com", "senha": "1", "senhaRepeticao": "1", "status": false },
-    { "id": 6, "email": "usuario6@email.com", "senha": "1", "senhaRepeticao": "1", "status": false },
-    { "id": 7, "email": "usuario7@email.com", "senha": "1", "senhaRepeticao": "1", "status": false },
-    { "id": 8, "email": "usuario8@email.com", "senha": "1", "senhaRepeticao": "1", "status": true },
-    { "id": 9, "email": "usuario9@email.com", "senha": "1", "senhaRepeticao": "1", "status": false },
-    { "id": 10, "email": "usuario10@email.com", "senha": "1", "senhaRepeticao": "1", "status": true },
-    { "id": 11, "email": "usuario11@email.com", "senha": "1", "senhaRepeticao": "1", "status": false },
-    { "id": 12, "email": "usuario12@email.com", "senha": "1", "senhaRepeticao": "1", "status": true }
-  ],
    "adms": [
     { "id": 1, "idUsuario": 1 },
     { "id": 2, "idUsuario": 2 },
