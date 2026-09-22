@@ -12,25 +12,5 @@
     { "id": 10, "email": "usuario10@email.com", "senha": "1", "senhaRepeticao": "1", "status": true },
     { "id": 11, "email": "usuario11@email.com", "senha": "1", "senhaRepeticao": "1", "status": false },
     { "id": 12, "email": "usuario12@email.com", "senha": "1", "senhaRepeticao": "1", "status": true }
-  ],
-  "adms": [
-    { "id": 1, "idUsuario": 1 },
-    { "id": 2, "idUsuario": 2 },
-    { "id": 3, "idUsuario": 3 }
-  ],
-  "doadores": [
-    { "id": 1, "nome": "Doador 1", "cpf": "111111111", "dtNasc": "01/01/2000", "sexo": "feminino", "celular": "1111-1111", "tipoS": "A+" , "idUsuario": 4 },
-    { "id": 2, "nome": "Doador 2", "cpf": "111111111", "dtNasc": "01/01/2000", "sexo": "masculino", "celular": "2222-2222", "tipoS": "A+" , "idUsuario": 5 },
-    { "id": 3, "nome": "Doador 3", "cpf": "111111111", "dtNasc": "01/01/2000", "sexo": "masculino", "celular": "3333-3333", "tipoS": "A+" , "idUsuario": 6 }
-  ],
-  "hemocentros": [
-    { "id": 1, "idUsuario": 7 },
-    { "id": 2, "idUsuario": 8 },
-    { "id": 3, "idUsuario": 9 }
-  ]
-  "instituicoes": [
-    { "id": 1, "razaoSocial": "Instituicao 1", "cnpj": "11111111111111", "responsavelTec":"Responsavel 1", "cpfRT": "111111111", "telefone": "1111-1111", "idUsuario": 10 },
-    { "id": 2, "razaoSocial": "Instituicao 2", "cnpj": "11111111111111", "responsavelTec":"Responsavel 2", "cpfRT": "111111111", "telefone": "2222-2222", "idUsuario": 11 },
-    { "id": 3, "razaoSocial": "Instituicao 3", "cnpj": "11111111111111", "responsavelTec":"Responsavel 3", "cpfRT": "111111111", "telefone": "3333-3333", "idUsuario": 12 }
   ]
 }
